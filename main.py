@@ -54,7 +54,7 @@ def main():
             if retCode == 1:
                 print("[!] Image damage: " + filepath)
 
-            time.sleep(1)
+            #time.sleep(1)
 
 
 main()
